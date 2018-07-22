@@ -1,0 +1,27 @@
+{
+  "name": "@spothero/eslint-config",
+  "version": "1.2.0",
+  "description": "SpotHero's base ESLint configuration.",
+  "main": "index.js",
+  "repository": "https://github.com/spothero/eslint-config",
+  "author": "SpotHero",
+  "license": "MIT",
+  "scripts": {
+    "commitmsg": "commitlint -E GIT_PARAMS",
+    "release": "npm-release"
+  },
+  "dependencies": {
+    "babel-eslint": "8.2.3",
+    "eslint": "4.19.1",
+    "eslint-plugin-babel": "5.1.0",
+    "eslint-plugin-react": "7.9.1"
+  },
+  "devDependencies": {
+    "@spothero/commitlint-config": "1.0.0",
+    "@spothero/npm-publisher": "0.0.4"
+  },
+  "engines": {
+    "node": ">=10.3.0",
+    "npm": ">=6.1.0"
+  }
+}
