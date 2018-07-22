@@ -1,3 +1,7 @@
+# 1.2.1 - 07/22/2018
+## Miscellaneous Updates
+* [[224fafe](https://github.com/spothero/eslint-config/commit/224fafe)] - `fix:` Change commitlint usage (Matt Przybylski)
+
 # 1.2.0 - 06/26/2018
 ## Dependency Updates
 * [[760a9b0](https://github.com/spothero/fe-eslint-config/commit/760a9b0)] - @spothero/config-commitlint 0.2.0 and @spothero/nexus 0.1.8 (Matt Przybylski)
