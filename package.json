@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@spothero/commitlint-config": "1.0.0",
-    "@spothero/npm-publisher": "0.0.4"
+    "@spothero/npm-publisher": "0.0.5"
   },
   "engines": {
     "node": ">=10.3.0",
