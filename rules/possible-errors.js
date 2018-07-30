@@ -1,6 +1,9 @@
 module.exports = {
     rules: {
+        'for-direction': 2,
+        'getter-return': 2,
         'no-await-in-loop': 2,
+        'no-compare-neg-zero': 2,
         'no-cond-assign': [2, 'always'],
         'no-console': 1,
         'no-constant-condition': 2,
@@ -9,8 +12,8 @@ module.exports = {
         'no-dupe-args': 2,
         'no-dupe-keys': 2,
         'no-duplicate-case': 2,
-        'no-empty-character-class': 2,
         'no-empty': 1,
+        'no-empty-character-class': 2,
         'no-ex-assign': 2,
         'no-extra-boolean-cast': 2,
         'no-extra-parens': [2, 'functions'],
