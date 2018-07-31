@@ -1,3 +1,9 @@
+# 1.3.0 - 07/31/2018
+## New Features
+* [[6bef74f](https://github.com/spothero/eslint-config/commit/6bef74f)] - Added support for node and added new rules, removed deprecated (Matt Przybylski)
+## Miscellaneous Updates
+* [[dcab3fd](https://github.com/spothero/eslint-config/commit/dcab3fd)] - `chore:` Bumped @spothero/npm-publisher to latest (Matt Przybylski)
+
 # 1.2.1 - 07/22/2018
 ## Miscellaneous Updates
 * [[224fafe](https://github.com/spothero/eslint-config/commit/224fafe)] - `fix:` Change commitlint usage (Matt Przybylski)
