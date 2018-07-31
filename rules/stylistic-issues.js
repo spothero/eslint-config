@@ -2,13 +2,10 @@ module.exports = {
     rules: {
         'array-bracket-newline': [2, {
             multiline: true,
-            minItems: 2
+            minItems: null
         }],
         'array-bracket-spacing': [2, 'never'],
-        'array-element-newline': [2, {
-            multiline: true,
-            minItems: 2
-        }],
+        'array-element-newline': 0,
         'block-spacing': 2,
         'brace-style': [2, '1tbs', {
             allowSingleLine: true
@@ -41,7 +38,7 @@ module.exports = {
         'line-comment-position': 0,
         'linebreak-style': 2,
         'lines-around-comment': 0,
-        'lines-between-class-members': 2,
+        'lines-between-class-members': 0,
         'max-depth': [2, 8],
         'max-len': 0,
         'max-lines': 0,
@@ -101,7 +98,6 @@ module.exports = {
         }],
         'padded-blocks': [2, 'never'],
         'padding-line-between-statements': [2,
-            {blankLine: 'always', prev: ['const', 'let'], next: '*'},
             {blankLine: 'always', prev: '*', next: 'return'}
         ],
         'prefer-object-spread': 2,

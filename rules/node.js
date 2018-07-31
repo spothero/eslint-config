@@ -24,7 +24,9 @@ module.exports = {
         'no-process-exit': 2,
         'no-restricted-modules': 0,
         'no-sync': 0,
-        'node/no-extraneous-import': 2,
+        'node/no-extraneous-import': [2, {
+            allowModules: ['react-hot-loader']
+        }],
         'node/no-extraneous-require': 2,
         'node/no-missing-import': 0,
         'node/no-missing-require': 0,
@@ -32,7 +34,7 @@ module.exports = {
         'node/no-unpublished-import': 0,
         'node/no-unpublished-require': 0,
         'node/no-unsupported-features/es-builtins': 2,
-        'node/no-unsupported-features/es-syntax': 2,
+        'node/no-unsupported-features/es-syntax': 0,
         'node/no-unsupported-features/node-builtins': 2,
         'node/process-exit-as-throw': 2,
         'node/shebang': 2,

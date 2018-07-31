@@ -9,8 +9,8 @@ module.exports = {
     },
     rules: {
         'react/boolean-prop-naming': 0,
-        'react/button-has-type': 2,
-        'react/default-props-match-prop-types': 2,
+        'react/button-has-type': 0,
+        'react/default-props-match-prop-types': 0,
         'react/destructuring-assignment': 0,
         'react/display-name': 0,
         'react/forbid-component-props': [2, {
