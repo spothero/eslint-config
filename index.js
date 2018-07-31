@@ -1,8 +1,8 @@
 module.exports = {
     extends: [
-        './rules/babel',
         './rules/best-practices',
         './rules/es6',
+        './rules/node',
         './rules/possible-errors',
         './rules/react',
         './rules/stylistic-issues',
