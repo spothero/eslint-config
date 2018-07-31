@@ -1,3 +1,8 @@
+# 1.3.1 - 07/31/2018
+## Miscellaneous Updates
+* [[e1d7a66](https://github.com/spothero/eslint-config/commit/e1d7a66)] - `fix:` Updated insane rules and ones firing false positives (Matt Przybylski)
+* [[9c2c9b6](https://github.com/spothero/eslint-config/commit/9c2c9b6)] - `chore:` Bump commitlint version to allow longer commit messages (Matt Przybylski)
+
 # 1.3.0 - 07/31/2018
 ## New Features
 * [[6bef74f](https://github.com/spothero/eslint-config/commit/6bef74f)] - Added support for node and added new rules, removed deprecated (Matt Przybylski)
