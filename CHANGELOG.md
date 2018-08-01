@@ -1,3 +1,7 @@
+# 1.3.2 - 08/01/2018
+## Miscellaneous Updates
+* [[2270211](https://github.com/spothero/eslint-config/commit/2270211)] - `fix:` Disable more rules that were giving false positives (Matt Przybylski)
+
 # 1.3.1 - 07/31/2018
 ## Miscellaneous Updates
 * [[e1d7a66](https://github.com/spothero/eslint-config/commit/e1d7a66)] - `fix:` Updated insane rules and ones firing false positives (Matt Przybylski)
