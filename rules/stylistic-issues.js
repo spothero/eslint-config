@@ -1,9 +1,6 @@
 module.exports = {
     rules: {
-        'array-bracket-newline': [2, {
-            multiline: true,
-            minItems: null
-        }],
+        'array-bracket-newline': 0,
         'array-bracket-spacing': [2, 'never'],
         'array-element-newline': 0,
         'block-spacing': 2,
@@ -24,7 +21,7 @@ module.exports = {
         'func-style': [2, 'expression', {
             allowArrowFunctions: true
         }],
-        'function-paren-newline': 2,
+        'function-paren-newline': 0,
         'id-blacklist': 0,
         'id-length': 0,
         'id-match': 0,

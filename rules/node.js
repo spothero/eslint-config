@@ -8,14 +8,9 @@ module.exports = {
         }
     },
     rules: {
-        'callback-return': [2, [
-            'callback',
-            'cb',
-            'done',
-            'next'
-        ]],
-        'global-require': 2,
-        'handle-callback-err': [2, '^.*(e|E)rr'],
+        'callback-return': 0,
+        'global-require': 0,
+        'handle-callback-err': 0,
         'no-buffer-constructor': 2,
         'no-mixed-requires': 2,
         'no-new-require': 2,

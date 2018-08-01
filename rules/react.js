@@ -91,7 +91,7 @@ module.exports = {
         'react/style-prop-object': 2,
         'react/void-dom-elements-no-children': 2,
         'react/jsx-boolean-value': 2,
-        'react/jsx-child-element-spacing': 2,
+        'react/jsx-child-element-spacing': 0,
         'react/jsx-closing-bracket-location': 2,
         'react/jsx-closing-tag-location': 2,
         'react/jsx-curly-spacing': 2,
