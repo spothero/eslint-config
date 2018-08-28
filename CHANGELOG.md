@@ -1,3 +1,9 @@
+# 1.3.3 - 08/28/2018
+
+## Miscellaneous Updates
+* [[fb619d1](https://github.com/spothero/eslint-config/commit/fb619d1)] - `build:` Update to using newest npm-publisher for publishing to proper npm registry (Matt Przybylski)
+* [[082cbd5](https://github.com/spothero/eslint-config/commit/082cbd5)] - `build:` Update to latest @spothero/npm-publisher and add unnecessary published files to .npmignore (Matt Przybylski)
+
 # 1.3.2 - 08/01/2018
 ## Miscellaneous Updates
 * [[2270211](https://github.com/spothero/eslint-config/commit/2270211)] - `fix:` Disable more rules that were giving false positives (Matt Przybylski)
