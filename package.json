@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "commitmsg": "commitlint -E GIT_PARAMS",
-    "release": "npm-release"
+    "release": "npm-release -- public"
   },
   "dependencies": {
     "babel-eslint": "8.2.6",
@@ -17,8 +17,8 @@
     "eslint-plugin-react": "7.10.0"
   },
   "devDependencies": {
-    "@spothero/commitlint-config": "1.1.0",
-    "@spothero/npm-publisher": "0.1.0"
+    "@spothero/commitlint-config": "1.1.1",
+    "@spothero/npm-publisher": "1.0.0"
   },
   "engines": {
     "node": ">=10.3.0",
