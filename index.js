@@ -29,5 +29,10 @@ module.exports = {
         context: true,
         Cypress: true,
         cy: true
+    },
+    settings: {
+        react: {
+            version: 'latest'
+        }
     }
 };
