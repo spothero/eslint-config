@@ -1,3 +1,8 @@
+# 1.4.1 - 09/25/2018
+
+## Miscellaneous Updates
+* [[1f14838](https://github.com/spothero/eslint-config/commit/1f14838)] - `fix:` Disabled buggy require-atomic-updates rule and set default react version settings to avoid warnings (Matt Przybylski)
+
 # 1.4.0 - 09/25/2018
 ## Dependency Updates
 * [[0884dbc](https://github.com/spothero/eslint-config/commit/0884dbc)] - Updated dependencies to latest, bump ecmaVersion to 9, add new rules (Matt Przybylski)
