@@ -1,3 +1,7 @@
+# 1.4.0 - 09/25/2018
+## Dependency Updates
+* [[0884dbc](https://github.com/spothero/eslint-config/commit/0884dbc)] - Updated dependencies to latest, bump ecmaVersion to 9, add new rules (Matt Przybylski)
+
 # 1.3.3 - 08/28/2018
 
 ## Miscellaneous Updates
