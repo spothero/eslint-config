@@ -1,3 +1,8 @@
+# 1.4.2 - 09/26/2018
+
+## Miscellaneous Updates
+* [[ebaab86](https://github.com/spothero/eslint-config/commit/ebaab86)] - `fix:` Revert setting React version to latest to avoid false positives in some new React lifecycle method rules (Matt Przybylski)
+
 # 1.4.1 - 09/25/2018
 
 ## Miscellaneous Updates
