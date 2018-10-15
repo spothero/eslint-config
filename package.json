@@ -7,18 +7,22 @@
   "author": "SpotHero",
   "license": "MIT",
   "scripts": {
-    "commitmsg": "commitlint -E GIT_PARAMS",
     "release": "npm-release -- public"
   },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
   "dependencies": {
-    "babel-eslint": "9.0.0",
+    "babel-eslint": "10.0.1",
     "eslint": "5.6.0",
     "eslint-plugin-node": "7.0.1",
     "eslint-plugin-react": "7.11.1"
   },
   "devDependencies": {
-    "@spothero/commitlint-config": "1.2.0",
-    "@spothero/npm-publisher": "2.0.0"
+    "@spothero/commitlint-config": "2.0.0",
+    "@spothero/npm-publisher": "2.1.1"
   },
   "engines": {
     "node": ">=10.3.0",
