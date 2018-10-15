@@ -1,3 +1,8 @@
+# 1.4.3 - 10/15/2018
+
+## Miscellaneous Updates
+* [[2a242ff](https://github.com/spothero/eslint-config/commit/2a242ff)] - `chore:` Upgrade to latest commitlint config and husky script format (Matt Przybylski)
+
 # 1.4.2 - 09/26/2018
 
 ## Miscellaneous Updates
