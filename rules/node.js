@@ -38,6 +38,8 @@ module.exports = {
         'node/prefer-global/buffer': [2, 'never'],
         'node/prefer-global/console': 2,
         'node/prefer-global/process': 2,
+        'node/prefer-global/text-decoder': 2,
+        'node/prefer-global/text-encoder': 2,
         'node/prefer-global/url-search-params': [2, 'never'],
         'node/prefer-global/url': [2, 'never']
     }

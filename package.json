@@ -16,12 +16,12 @@
   },
   "dependencies": {
     "babel-eslint": "10.0.1",
-    "eslint": "5.6.0",
-    "eslint-plugin-node": "7.0.1",
+    "eslint": "5.8.0",
+    "eslint-plugin-node": "8.0.0",
     "eslint-plugin-react": "7.11.1"
   },
   "devDependencies": {
-    "@spothero/commitlint-config": "2.0.0",
+    "@spothero/commitlint-config": "2.0.1",
     "@spothero/npm-publisher": "2.1.1"
   },
   "engines": {
