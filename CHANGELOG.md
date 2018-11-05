@@ -1,3 +1,8 @@
+# 1.4.4 - 11/05/2018
+
+## Miscellaneous Updates
+* [[a526646](https://github.com/spothero/eslint-config/commit/a526646)] - `chore:` Upgrade to latest dependencies and add newest node rules for TextEncoder and TextDecoder support (Matt Przybylski)
+
 # 1.4.3 - 10/15/2018
 
 ## Miscellaneous Updates
