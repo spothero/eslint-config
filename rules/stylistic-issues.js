@@ -3,7 +3,7 @@ module.exports = {
         '@spothero/eslint-plugin-spothero'
     ],
     rules: {
-        '@spothero/spothero/ternary-parentheses': 2,
+        '@spothero/spothero/ternary-parentheses': 1,
         'array-bracket-newline': 0,
         'array-bracket-spacing': [2, 'never'],
         'array-element-newline': 0,
