@@ -1,5 +1,9 @@
 module.exports = {
+    plugins: [
+        '@spothero/eslint-plugin-spothero'
+    ],
     rules: {
+        '@spothero/spothero/ternary-parentheses': 2,
         'array-bracket-newline': 0,
         'array-bracket-spacing': [2, 'never'],
         'array-element-newline': 0,
