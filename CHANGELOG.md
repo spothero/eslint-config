@@ -1,3 +1,7 @@
+# 1.5.0 - 12/03/2018
+## New Features
+* [[15915b5](https://github.com/spothero/eslint-config/commit/15915b5)] - Include spothero-eslint-plugin and custom rule (boiarqin)
+
 # 1.4.4 - 11/05/2018
 
 ## Miscellaneous Updates
