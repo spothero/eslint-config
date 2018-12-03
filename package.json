@@ -15,7 +15,7 @@
     }
   },
   "dependencies": {
-    "@spothero/eslint-plugin-spothero": "0.1.0",
+    "@spothero/eslint-plugin-spothero": "0.1.1",
     "babel-eslint": "10.0.1",
     "eslint": "5.8.0",
     "eslint-plugin-node": "8.0.0",
