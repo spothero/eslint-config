@@ -5,6 +5,7 @@ module.exports = {
         './rules/node',
         './rules/possible-errors',
         './rules/react',
+        './rules/spothero',
         './rules/stylistic-issues',
         './rules/variables'
     ].map(require.resolve),
