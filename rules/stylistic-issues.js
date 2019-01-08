@@ -18,9 +18,7 @@ module.exports = {
         'func-call-spacing': 2,
         'func-name-matching': 2,
         'func-names': 2,
-        'func-style': [2, 'expression', {
-            allowArrowFunctions: true
-        }],
+        'func-style': 0,
         'function-paren-newline': 0,
         'id-blacklist': 0,
         'id-length': 0,
