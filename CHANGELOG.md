@@ -1,3 +1,11 @@
+# 1.5.1 - 01/08/2019
+
+## Miscellaneous Updates
+* [[6c45a99](https://github.com/spothero/eslint-config/commit/6c45a99)] - `fix:` Disable func-style expression setting to allow for more flexibility in modules (Matt Przybylski)
+* [[46596a6](https://github.com/spothero/eslint-config/commit/46596a6)] - `fix:` Add version detection for react plugin to avoid warnings in shell (Matt Przybylski)
+* [[5a4cd6a](https://github.com/spothero/eslint-config/commit/5a4cd6a)] - `chore:` Update to latest deps (Matt Przybylski)
+* [[2f673d3](https://github.com/spothero/eslint-config/commit/2f673d3)] - `chore:` License under Apache 2.0 instead of MIT (Matt Przybylski)
+
 # 1.5.0 - 12/03/2018
 ## New Features
 * [[15915b5](https://github.com/spothero/eslint-config/commit/15915b5)] - Include spothero-eslint-plugin and custom rule (boiarqin)
