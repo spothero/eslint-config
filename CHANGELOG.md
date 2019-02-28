@@ -1,3 +1,8 @@
+# 1.5.2 - 02/28/2019
+
+## Miscellaneous Updates
+* [[351af8a](https://github.com/spothero/eslint-config/commit/351af8a)] - `chore:` Update deps to latest (Matt Przybylski)
+
 # 1.5.1 - 01/08/2019
 
 ## Miscellaneous Updates
