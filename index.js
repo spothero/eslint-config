@@ -29,6 +29,9 @@ module.exports = {
     globals: {
         context: true,
         Cypress: true,
-        cy: true
+        cy: true,
+        Given: true,
+        When: true,
+        Then: true,
     }
 };
