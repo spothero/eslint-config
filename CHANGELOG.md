@@ -1,3 +1,7 @@
+# 1.6.0 - 03/20/2019
+## New Features
+* [[b839b6f](https://github.com/spothero/eslint-config/commit/b839b6f)] - Add cucumber/gherkin global function names (boiarqin)
+
 # 1.5.2 - 02/28/2019
 
 ## Miscellaneous Updates
