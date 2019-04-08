@@ -1,3 +1,8 @@
+# 1.6.1 - 04/08/2019
+
+## Miscellaneous Updates
+* [[4a29e60](https://github.com/spothero/eslint-config/commit/4a29e60)] - `chore:` Update deps to latest (Matt Przybylski)
+
 # 1.6.0 - 03/20/2019
 ## New Features
 * [[b839b6f](https://github.com/spothero/eslint-config/commit/b839b6f)] - Add cucumber/gherkin global function names (boiarqin)
