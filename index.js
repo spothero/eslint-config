@@ -4,6 +4,7 @@ module.exports = {
         './rules/es6',
         './rules/node',
         './rules/possible-errors',
+        './rules/react-hooks',
         './rules/react',
         './rules/spothero',
         './rules/stylistic-issues',

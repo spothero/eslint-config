@@ -18,12 +18,13 @@
     "@spothero/eslint-plugin-spothero": "0.1.4",
     "babel-eslint": "10.0.1",
     "eslint": "5.16.0",
-    "eslint-plugin-node": "8.0.1",
-    "eslint-plugin-react": "7.12.4"
+    "eslint-plugin-node": "9.0.1",
+    "eslint-plugin-react": "7.13.0",
+    "eslint-plugin-react-hooks": "1.6.0"
   },
   "devDependencies": {
-    "@spothero/commitlint-config": "2.0.3",
-    "@spothero/npm-publisher": "2.2.0"
+    "@spothero/commitlint-config": "2.0.4",
+    "@spothero/npm-publisher": "2.2.1"
   },
   "engines": {
     "node": ">=10.3.0",
