@@ -1,3 +1,10 @@
+# 1.7.0 - 05/13/2019
+## New Features
+* [[a3d9eae](https://github.com/spothero/eslint-config/commit/a3d9eae)] - Config Updates ([#4](https://github.com/spothero/eslint-config/pull/4)) (Matt Przybylski)
+	* `fix:` Re-enable object-curly-spacing as it was turned off for some reason
+	* `chore:` Update to latest dependencies
+	* `feat:` Add eslint-plugin-react-hooks to configuration
+
 # 1.6.1 - 04/08/2019
 
 ## Miscellaneous Updates
