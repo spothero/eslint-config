@@ -8,7 +8,8 @@ module.exports = {
         './rules/react',
         './rules/spothero',
         './rules/stylistic-issues',
-        './rules/variables'
+        './rules/variables',
+        './overrides/tests'
     ].map(require.resolve),
     parser: 'babel-eslint',
     parserOptions: {
