@@ -1,3 +1,8 @@
+# 1.8.1 - 06/21/2019
+
+## Miscellaneous Updates
+* [[c7d89aa](https://github.com/spothero/eslint-config/commit/c7d89aa)] - `fix:` Override rules that don't apply to test files (boiarqin)
+
 # 1.8.0 - 06/17/2019
 ## Dependency Updates
 * [[67d8a1f](https://github.com/spothero/eslint-config/commit/67d8a1f)] - Update dependencies, add Codeowners file (boiarqin)
