@@ -1,3 +1,8 @@
+# 1.8.3 - 07/05/2019
+
+## Miscellaneous Updates
+* [[4d849cd](https://github.com/spothero/eslint-config/commit/4d849cd)] - `fix:` Update spothero eslint config to latest to fix issues with imports of ESLint updated files (Matt Przybylski)
+
 # 1.8.2 - 07/05/2019
 
 ## Miscellaneous Updates
