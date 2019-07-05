@@ -15,15 +15,15 @@
     }
   },
   "dependencies": {
-    "@spothero/eslint-plugin-spothero": "0.2.0",
+    "@spothero/eslint-plugin-spothero": "0.2.1",
     "babel-eslint": "10.0.2",
-    "eslint": "5.16.0",
+    "eslint": "6.0.1",
     "eslint-plugin-node": "9.1.0",
-    "eslint-plugin-react": "7.13.0",
-    "eslint-plugin-react-hooks": "1.6.0"
+    "eslint-plugin-react": "7.14.2",
+    "eslint-plugin-react-hooks": "1.6.1"
   },
   "devDependencies": {
-    "@spothero/commitlint-config": "2.1.0",
+    "@spothero/commitlint-config": "2.1.1",
     "@spothero/npm-publisher": "2.3.0"
   },
   "engines": {
