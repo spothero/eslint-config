@@ -1,3 +1,8 @@
+# 1.8.2 - 07/05/2019
+
+## Miscellaneous Updates
+* [[0c12061](https://github.com/spothero/eslint-config/commit/0c12061)] - `chore:` Update to latest dependencies (Matt Przybylski)
+
 # 1.8.1 - 06/21/2019
 
 ## Miscellaneous Updates
