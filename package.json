@@ -15,7 +15,7 @@
     }
   },
   "dependencies": {
-    "@spothero/eslint-plugin-spothero": "0.2.1",
+    "@spothero/eslint-plugin-spothero": "0.2.2",
     "babel-eslint": "10.0.2",
     "eslint": "6.0.1",
     "eslint-plugin-node": "9.1.0",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@spothero/commitlint-config": "2.1.1",
-    "@spothero/npm-publisher": "2.3.0"
+    "@spothero/npm-publisher": "2.3.1"
   },
   "engines": {
     "node": ">=10.3.0",
