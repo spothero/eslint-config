@@ -1,3 +1,8 @@
+# 1.8.4 - 07/05/2019
+
+## Miscellaneous Updates
+* [[6af2278](https://github.com/spothero/eslint-config/commit/6af2278)] - `fix:` Add eslint-plugin-babel to fix false positives (Matt Przybylski)
+
 # 1.8.3 - 07/05/2019
 
 ## Miscellaneous Updates
