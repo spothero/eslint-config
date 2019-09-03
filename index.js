@@ -7,7 +7,6 @@ module.exports = {
         './rules/possible-errors',
         './rules/react-hooks',
         './rules/react',
-        './rules/spothero',
         './rules/stylistic-issues',
         './rules/variables',
         './overrides/tests'
