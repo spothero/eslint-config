@@ -1,3 +1,14 @@
+# 1.9.0 - 09/04/2019
+## New Features
+* [[2a25c9e](https://github.com/spothero/eslint-config/commit/2a25c9e)] - Prettier integration ([#7](https://github.com/spothero/eslint-config/pull/7)) (Matt Przybylski)
+	* `feat:` Integrate Prettier ESLint support
+	* `fix:` Add allowArrowFunctions to react jsx-no-bind rule for usage with hooks
+	* `feat:` Update padding-line-between-statements to align more with SpotHero coding style guide
+	* `docs:` Update README
+
+## Miscellaneous Updates
+* [[061b7e0](https://github.com/spothero/eslint-config/commit/061b7e0)] - `fix:` Remove ternary parentheses rule and spothero plugin in preparation for prettier integration (Matt Przybylski)
+
 # 1.8.4 - 07/05/2019
 
 ## Miscellaneous Updates
