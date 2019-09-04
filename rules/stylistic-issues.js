@@ -93,7 +93,24 @@ module.exports = {
         }],
         'padded-blocks': [2, 'never'],
         'padding-line-between-statements': [2,
-            {blankLine: 'always', prev: '*', next: 'return'}
+            {blankLine: 'always', prev: '*', next: 'return'},
+            {blankLine: 'always', prev: ['const', 'let'], next: '*'},
+            {
+                blankLine: 'any',
+                prev: ['const', 'let'],
+                next: ['const', 'let']
+            },
+            {
+                blankLine: 'never',
+                prev: ['singleline-const', 'singleline-let'],
+                next: ['singleline-const', 'singleline-let']
+            },
+            {blankLine: 'always', prev: ['cjs-import'], next: '*'},
+            {
+                blankLine: 'never',
+                prev: ['cjs-import'],
+                next: ['cjs-import']
+            }
         ],
         'prefer-object-spread': 2,
         'quote-props': [2, 'as-needed'],
