@@ -47,4 +47,4 @@ Optionally, add a `.prettierignore` file in your project's root with the below:
 *.md
 ```
 
-This will ignore formatting on `.md` files which could be annoying and cause display issues otherwise.
+This will ignore formatting on `.md` files which may be annoying and possibly cause display issues.
