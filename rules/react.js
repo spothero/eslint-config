@@ -116,7 +116,8 @@ module.exports = {
             maximum: 1
         }],
         'react/jsx-no-bind': [2, {
-            ignoreRefs: true
+            ignoreRefs: true,
+            allowArrowFunctions: true
         }],
         'react/jsx-no-comment-textnodes': 2,
         'react/jsx-no-duplicate-props': 2,
