@@ -1,3 +1,8 @@
+# 1.9.1 - 06/30/2020
+
+## Miscellaneous Updates
+* [[0a296b7](https://github.com/spothero/eslint-config/commit/0a296b7)] - `chore:` Update Prettier usage to use new prettier-config ([#9](https://github.com/spothero/eslint-config/pull/9)) (Matt Przybylski)
+
 # 1.9.0 - 09/04/2019
 ## New Features
 * [[2a25c9e](https://github.com/spothero/eslint-config/commit/2a25c9e)] - Prettier integration ([#7](https://github.com/spothero/eslint-config/pull/7)) (Matt Przybylski)
