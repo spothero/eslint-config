@@ -148,7 +148,7 @@ module.exports = {
             },
         ],
         'require-jsdoc': 0,
-        semi: 2,
+        semi: 0,
         'semi-spacing': 2,
         'semi-style': 2,
         'sort-keys': 0,
