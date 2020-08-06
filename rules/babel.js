@@ -1,8 +1,6 @@
 module.exports = {
-    plugins: [
-        'babel'
-    ],
+    plugins: ['babel'],
     rules: {
         'babel/object-curly-spacing': 2,
-    }
+    },
 };

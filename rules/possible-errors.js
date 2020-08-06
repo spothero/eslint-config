@@ -33,9 +33,9 @@ module.exports = {
         'no-unreachable': 2,
         'no-unsafe-finally': 2,
         'no-unsafe-negation': 2,
-        'require-atomic-updates': 0, // https://github.com/eslint/eslint/issues/10893
+        'require-atomic-updates': 2,
         'use-isnan': 2,
         'valid-jsdoc': 2,
-        'valid-typeof': 2
-    }
+        'valid-typeof': 2,
+    },
 };

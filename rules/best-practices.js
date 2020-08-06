@@ -56,9 +56,12 @@ module.exports = {
         'no-sequences': 2,
         'no-throw-literal': 2,
         'no-unmodified-loop-condition': 2,
-        'no-unused-expressions': [2, {
-            allowTernary: true
-        }],
+        'no-unused-expressions': [
+            2,
+            {
+                allowTernary: true,
+            },
+        ],
         'no-unused-labels': 2,
         'no-useless-call': 2,
         'no-useless-concat': 2,
@@ -73,6 +76,6 @@ module.exports = {
         'require-unicode-regexp': 0,
         'vars-on-top': 2,
         'wrap-iife': [2, 'inside'],
-        yoda: 2
-    }
+        yoda: 2,
+    },
 };

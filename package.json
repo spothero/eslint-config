@@ -6,6 +6,14 @@
   "repository": "https://github.com/spothero/eslint-config",
   "author": "SpotHero",
   "license": "Apache-2.0",
+  "eslintConfig": {
+    "extends": [
+      "./index.js",
+      "plugin:prettier/recommended",
+      "prettier/babel",
+      "prettier/react"
+    ]
+  },
   "prettier": "@spothero/prettier-config",
   "scripts": {
     "release": "npm-release -- public"
@@ -27,11 +35,11 @@
   },
   "devDependencies": {
     "@spothero/commitlint-config": "2.1.2",
-    "@spothero/prettier-config": "0.1.0",
+    "@spothero/prettier-config": "0.1.1",
     "@spothero/npm-publisher": "2.3.2"
   },
   "peerDependencies": {
-    "@spothero/prettier-config": "^0.1.0"
+    "@spothero/prettier-config": "^0.1.1"
   },
   "engines": {
     "node": ">=10.3.0",
