@@ -16,6 +16,7 @@ module.exports = {
             },
         ],
         'no-new-symbol': 2,
+        'no-restricted-exports': 0,
         'no-restricted-imports': [
             2,
             {

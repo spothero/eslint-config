@@ -6,7 +6,6 @@ module.exports = {
         },
     },
     rules: {
-        'no-buffer-constructor': 2,
         'node/callback-return': 0,
         'node/global-require': 0,
         'node/handle-callback-err': 0,
