@@ -50,7 +50,7 @@
     "@spothero/prettier-config": "^0.1.1"
   },
   "engines": {
-    "node": ">=10.3.0",
-    "npm": ">=6.1.0"
+    "node": ">=12.13.0",
+    "npm": ">=6.12.0"
   }
 }
