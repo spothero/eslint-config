@@ -9,13 +9,19 @@ module.exports = {
         'no-undef': 2,
         'no-undef-init': 2,
         'no-undefined': 2,
-        'no-unused-vars': [2, {
-            vars: 'all',
-            args: 'none'
-        }],
-        'no-use-before-define': [2, {
-            functions: false,
-            classes: true
-        }]
-    }
+        'no-unused-vars': [
+            2,
+            {
+                vars: 'all',
+                args: 'none',
+            },
+        ],
+        'no-use-before-define': [
+            2,
+            {
+                functions: false,
+                classes: true,
+            },
+        ],
+    },
 };

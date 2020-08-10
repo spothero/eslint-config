@@ -4,9 +4,13 @@ module.exports = {
         'array-bracket-spacing': [2, 'never'],
         'array-element-newline': 0,
         'block-spacing': 2,
-        'brace-style': [2, '1tbs', {
-            allowSingleLine: true
-        }],
+        'brace-style': [
+            2,
+            '1tbs',
+            {
+                allowSingleLine: true,
+            },
+        ],
         camelcase: 2,
         'capitalized-comments': 0,
         'comma-dangle': 0,
@@ -20,13 +24,17 @@ module.exports = {
         'func-names': 2,
         'func-style': 0,
         'function-paren-newline': 0,
-        'id-blacklist': 0,
+        'id-denylist': 0,
         'id-length': 0,
         'id-match': 0,
         'implicit-arrow-linebreak': 2,
-        indent: [2, 4, {
-            SwitchCase: 1
-        }],
+        indent: [
+            2,
+            4,
+            {
+                SwitchCase: 1,
+            },
+        ],
         'jsx-quotes': [2, 'prefer-double'],
         'key-spacing': 2,
         'keyword-spacing': 2,
@@ -38,9 +46,12 @@ module.exports = {
         'max-len': 0,
         'max-lines': 0,
         'max-lines-per-function': 0,
-        'max-nested-callbacks': [2, {
-            max: 3
-        }],
+        'max-nested-callbacks': [
+            2,
+            {
+                max: 3,
+            },
+        ],
         'max-params': 0,
         'max-statements': 0,
         'max-statements-per-line': 0,
@@ -57,10 +68,13 @@ module.exports = {
         'no-mixed-operators': 2,
         'no-mixed-spaces-and-tabs': 2,
         'no-multi-assign': 2,
-        'no-multiple-empty-lines': [2, {
-            max: 1,
-            maxEOF: 1
-        }],
+        'no-multiple-empty-lines': [
+            2,
+            {
+                max: 1,
+                maxEOF: 1,
+            },
+        ],
         'no-negated-condition': 0,
         'no-nested-ternary': 0,
         'no-new-object': 2,
@@ -68,12 +82,18 @@ module.exports = {
         'no-restricted-syntax': 0,
         'no-tabs': 2,
         'no-ternary': 0,
-        'no-trailing-spaces': [2, {
-            skipBlankLines: true
-        }],
-        'no-underscore-dangle': [2, {
-            allowAfterThis: true
-        }],
+        'no-trailing-spaces': [
+            2,
+            {
+                skipBlankLines: true,
+            },
+        ],
+        'no-underscore-dangle': [
+            2,
+            {
+                allowAfterThis: true,
+            },
+        ],
         'no-unneeded-ternary': 2,
         'no-whitespace-before-property': 2,
         'nonblock-statement-body-position': 2,
@@ -83,63 +103,78 @@ module.exports = {
         'one-var': [2, 'never'],
         'one-var-declaration-per-line': [2, 'always'],
         'operator-assignment': 2,
-        'operator-linebreak': [2, 'before', {
-            overrides: {
-                '?': 'ignore',
-                ':': 'ignore',
-                '&&': 'ignore',
-                '||': 'ignore'
-            }
-        }],
+        'operator-linebreak': [
+            2,
+            'before',
+            {
+                overrides: {
+                    '?': 'ignore',
+                    ':': 'ignore',
+                    '&&': 'ignore',
+                    '||': 'ignore',
+                },
+            },
+        ],
         'padded-blocks': [2, 'never'],
-        'padding-line-between-statements': [2,
+        'padding-line-between-statements': [
+            2,
             {blankLine: 'always', prev: '*', next: 'return'},
             {blankLine: 'always', prev: ['const', 'let'], next: '*'},
             {
                 blankLine: 'any',
                 prev: ['const', 'let'],
-                next: ['const', 'let']
+                next: ['const', 'let'],
             },
             {
                 blankLine: 'never',
                 prev: ['singleline-const', 'singleline-let'],
-                next: ['singleline-const', 'singleline-let']
+                next: ['singleline-const', 'singleline-let'],
             },
             {blankLine: 'always', prev: ['cjs-import'], next: '*'},
             {
                 blankLine: 'never',
                 prev: ['cjs-import'],
-                next: ['cjs-import']
-            }
+                next: ['cjs-import'],
+            },
         ],
+        'prefer-exponentiation-operator': 2,
         'prefer-object-spread': 2,
         'quote-props': [2, 'as-needed'],
-        quotes: [2, 'single', {
-            avoidEscape: true,
-            allowTemplateLiterals: true
-        }],
-        'require-jsdoc': 0,
-        semi: 2,
+        quotes: [
+            2,
+            'single',
+            {
+                avoidEscape: true,
+                allowTemplateLiterals: true,
+            },
+        ],
+        semi: 0,
         'semi-spacing': 2,
         'semi-style': 2,
         'sort-keys': 0,
         'sort-vars': 0,
         'space-before-blocks': 2,
-        'space-before-function-paren': [2, {
-            anonymous: 'always',
-            named: 'never',
-            asyncArrow: 'always'
-        }],
+        'space-before-function-paren': [
+            2,
+            {
+                anonymous: 'always',
+                named: 'never',
+                asyncArrow: 'always',
+            },
+        ],
         'space-in-parens': 2,
         'space-infix-ops': 2,
-        'space-unary-ops': [2, {
-            words: true,
-            nonwords: false
-        }],
+        'space-unary-ops': [
+            2,
+            {
+                words: true,
+                nonwords: false,
+            },
+        ],
         'spaced-comment': 1,
         'switch-colon-spacing': 2,
         'template-tag-spacing': 2,
         'unicode-bom': 2,
-        'wrap-regex': 0
-    }
+        'wrap-regex': 0,
+    },
 };

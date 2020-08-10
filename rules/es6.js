@@ -9,19 +9,29 @@ module.exports = {
         'no-confusing-arrow': 2,
         'no-const-assign': 2,
         'no-dupe-class-members': 2,
-        'no-duplicate-imports': [2, {
-            includeExports: true
-        }],
+        'no-duplicate-imports': [
+            2,
+            {
+                includeExports: true,
+            },
+        ],
         'no-new-symbol': 2,
-        'no-restricted-imports': [2, {
-            paths: ['lodash']
-        }],
+        'no-restricted-exports': 0,
+        'no-restricted-imports': [
+            2,
+            {
+                paths: ['lodash'],
+            },
+        ],
         'no-this-before-super': 2,
         'no-useless-computed-key': 2,
         'no-useless-constructor': 2,
-        'no-useless-rename': [2, {
-            ignoreImport: true
-        }],
+        'no-useless-rename': [
+            2,
+            {
+                ignoreImport: true,
+            },
+        ],
         'no-var': 2,
         'object-shorthand': 2,
         'prefer-arrow-callback': 2,
@@ -36,6 +46,6 @@ module.exports = {
         'sort-imports': 0,
         'symbol-description': 2,
         'template-curly-spacing': 2,
-        'yield-star-spacing': 2
-    }
+        'yield-star-spacing': 2,
+    },
 };

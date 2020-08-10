@@ -9,16 +9,16 @@ module.exports = {
         './rules/react',
         './rules/stylistic-issues',
         './rules/variables',
-        './overrides/tests'
+        './overrides/tests',
     ].map(require.resolve),
-    parser: 'babel-eslint',
+    parser: '@babel/eslint-parser',
     parserOptions: {
         ecmaVersion: 9,
         sourceType: 'module',
         ecmaFeatures: {
             jsx: true,
-            legacyDecorators: true
-        }
+            legacyDecorators: true,
+        },
     },
     env: {
         browser: true,
@@ -26,7 +26,7 @@ module.exports = {
         es6: true,
         jasmine: true,
         jest: true,
-        mocha: true
+        mocha: true,
     },
     globals: {
         context: true,
@@ -35,5 +35,5 @@ module.exports = {
         Given: true,
         When: true,
         Then: true,
-    }
+    },
 };
