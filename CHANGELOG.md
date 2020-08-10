@@ -1,3 +1,8 @@
+# 2.0.0 - 08/10/2020
+
+## Breaking Changes
+* [[99bcb4d](https://github.com/spothero/eslint-config/commit/99bcb4d)] - Update ESLint config ([#10](https://github.com/spothero/eslint-config/pull/10)) (Matt Przybylski)
+
 # 1.9.1 - 06/30/2020
 
 ## Miscellaneous Updates
