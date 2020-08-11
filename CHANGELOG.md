@@ -1,3 +1,8 @@
+# 2.0.1 - 08/11/2020
+
+## Miscellaneous Updates
+* [[c3e5185](https://github.com/spothero/eslint-config/commit/c3e5185)] - `fix:` Disable babel rules that are causing errors (Matt)
+
 # 2.0.0 - 08/10/2020
 
 ## Breaking Changes
