@@ -35,7 +35,11 @@ module.exports = {
         // stylistic issues
         'node/callback-return': 0,
         'node/exports-style': 2,
-        'node/file-extension-in-import': [2, 'always', {'.js': 'never'}],
+        'node/file-extension-in-import': [
+            2,
+            'always',
+            {'.js': 'never', '.jsx': 'never'},
+        ],
         'node/global-require': 0,
         'node/no-mixed-requires': 2,
         'node/no-process-env': 0,
