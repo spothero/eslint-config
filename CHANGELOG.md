@@ -1,3 +1,9 @@
+# 2.0.2 - 08/18/2020
+## Miscellaneous Updates
+* [[e8f5682](https://github.com/spothero/eslint-config/commit/e8f5682)] - Disable no-missing-import and no-missing-require ([#12](https://github.com/spothero/eslint-config/pull/12)) (Matt Przybylski)
+	* `chore:` Update to latest dependencies
+	* `fix:` Disable no-missing-import and no-missing-require due to false positives with webpack resolved modules
+
 # 2.0.1 - 08/11/2020
 
 ## Miscellaneous Updates
