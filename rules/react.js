@@ -72,7 +72,6 @@ module.exports = {
             {
                 order: [
                     'static-methods',
-                    'instance-variables',
                     'lifecycle',
                     '/^_on.+$/',
                     'everything-else',
@@ -88,6 +87,7 @@ module.exports = {
                         'statics',
                         'defaultProps',
                         'state',
+                        'instance-variables',
                         'constructor',
                         'getDerivedStateFromProps',
                         'componentWillMount',
