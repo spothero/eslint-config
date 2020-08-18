@@ -1,3 +1,10 @@
+# 2.0.3 - 08/18/2020
+## Miscellaneous Updates
+* [[0aa26e1](https://github.com/spothero/eslint-config/commit/0aa26e1)] - Rule False Positives Cleanup ([#13](https://github.com/spothero/eslint-config/pull/13)) (Matt Przybylski)
+	* `fix:` Add jsx extension to file-extension-in-import ignore
+	* `fix:` Reorder lifecycle in react sort-comp rule
+	* `fix:` Disable default-param-last to avoid property ordering issues in non-object methods
+
 # 2.0.2 - 08/18/2020
 ## Miscellaneous Updates
 * [[e8f5682](https://github.com/spothero/eslint-config/commit/e8f5682)] - Disable no-missing-import and no-missing-require ([#12](https://github.com/spothero/eslint-config/pull/12)) (Matt Przybylski)
