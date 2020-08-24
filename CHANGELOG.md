@@ -1,3 +1,8 @@
+# 2.0.4 - 08/24/2020
+
+## Miscellaneous Updates
+* [[bd523d3](https://github.com/spothero/eslint-config/commit/bd523d3)] - `fix:` Add max-classes-per-file to overrides for spec files (Matt)
+
 # 2.0.3 - 08/18/2020
 ## Miscellaneous Updates
 * [[0aa26e1](https://github.com/spothero/eslint-config/commit/0aa26e1)] - Rule False Positives Cleanup ([#13](https://github.com/spothero/eslint-config/pull/13)) (Matt Przybylski)
