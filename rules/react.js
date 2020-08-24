@@ -81,6 +81,7 @@ module.exports = {
                 ],
                 groups: {
                     lifecycle: [
+                        'displayName',
                         'propTypes',
                         'contextTypes',
                         'childContextTypes',
