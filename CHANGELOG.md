@@ -1,3 +1,8 @@
+# 2.0.5 - 08/24/2020
+
+## Miscellaneous Updates
+* [[0fbebfd](https://github.com/spothero/eslint-config/commit/0fbebfd)] - `fix:` Add displayName to react-sort-comp (Matt)
+
 # 2.0.4 - 08/24/2020
 
 ## Miscellaneous Updates
