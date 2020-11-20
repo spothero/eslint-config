@@ -1,3 +1,8 @@
+# 2.1.0-beta.0 - 11/20/2020
+
+## Dependency Updates
+* [[7ae05c2](https://github.com/spothero/eslint-config/commit/7ae05c2)] - Upgrade internal dependencies (Boiar Qin)
+
 # 2.0.5 - 08/24/2020
 
 ## Miscellaneous Updates
