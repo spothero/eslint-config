@@ -1,3 +1,8 @@
+# 2.1.0 - 11/20/2020
+
+## Dependency Updates
+* [[4f96cc5](https://github.com/spothero/eslint-config/commit/4f96cc5)] - Upgrade internal dependencies ([#14](https://github.com/spothero/eslint-config/pull/14)) (Boiar Qin)
+
 # 2.1.0-beta.0 - 11/20/2020
 
 ## Dependency Updates
