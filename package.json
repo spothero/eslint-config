@@ -1,6 +1,6 @@
 {
   "name": "@spothero/eslint-config",
-  "version": "2.1.0-beta.0",
+  "version": "2.1.0",
   "description": "SpotHero's base ESLint configuration.",
   "main": "index.js",
   "repository": "https://github.com/spothero/eslint-config",
