@@ -40,10 +40,10 @@
     "eslint-plugin-react-hooks": "4.1.0"
   },
   "devDependencies": {
-    "@spothero/babel-preset-spothero": "0.2.0",
-    "@spothero/commitlint-config": "2.2.0",
-    "@spothero/npm-publisher": "2.4.1",
-    "@spothero/prettier-config": "0.2.0",
+    "@spothero/babel-preset-spothero": "1.1.0",
+    "@spothero/commitlint-config": "2.3.0",
+    "@spothero/npm-publisher": "2.4.2",
+    "@spothero/prettier-config": "0.3.0",
     "react-hot-loader": "4.12.21"
   },
   "peerDependencies": {
