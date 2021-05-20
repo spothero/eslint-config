@@ -1,3 +1,11 @@
+# 2.2.0 - 05/20/2021
+
+## Dependency Updates
+* [[07c690a](https://github.com/spothero/eslint-config/commit/07c690a)] - Update npm-publisher, prettier-config, babel-preset and commitlint-config deps ([#17](https://github.com/spothero/eslint-config/pull/17)) (Eddie Padin)
+
+## Miscellaneous Updates
+* [[a08c4ff](https://github.com/spothero/eslint-config/commit/a08c4ff)] - `chore:` Add CHANGELOG.tmp to gitignore (Boiar Qin)
+
 # 2.1.0 - 11/20/2020
 
 ## Dependency Updates
