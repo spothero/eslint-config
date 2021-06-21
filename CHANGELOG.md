@@ -1,3 +1,13 @@
+# 2.3.0 - 06/21/2021
+## Miscellaneous Updates
+
+## Dependency Updates
+* [[6685302](https://github.com/spothero/eslint-config/commit/6685302)] - Update npm dependencies to fix security vulnerabilities ([#19](https://github.com/spothero/eslint-config/pull/19)) (Gru Singh)
+
+## Miscellaneous Updates
+* [[48224b8](https://github.com/spothero/eslint-config/commit/48224b8)] - build(deps): Bump ini from 1.3.5 to 1.3.8 ([#16](https://github.com/spothero/eslint-config/pull/16)) (dependabot[bot])
+	* `Bumps [ini](https:`//github.com/isaacs/ini) from 1.3.5 to 1.3.8.- [Release notes](https://github.com/isaacs/ini/releases)- [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.8)Signed-off-by: dependabot[bot] <support@github.com>Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
 # 2.2.0 - 05/20/2021
 
 ## Dependency Updates
